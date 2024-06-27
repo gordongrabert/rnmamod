@@ -1,0 +1,11 @@
+pandoc: 3.1.11
+pkgdown: 2.0.9
+pkgdown_sha: ~
+articles:
+  network_description: network_description.html
+  perform_network_metaanalysis: perform_network_metaanalysis.html
+last_built: 2024-06-27T13:48Z
+urls:
+  reference: https://loukiaspin.github.io/rnmamod/reference
+  article: https://loukiaspin.github.io/rnmamod/articles
+
